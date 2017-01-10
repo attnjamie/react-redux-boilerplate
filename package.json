@@ -1,5 +1,5 @@
 {
-  "name": "React Redux Boilerplate",
+  "name": "react-redux-boilerplate",
   "version": "0.0.1",
   "main": "server.js",
   "scripts": {
